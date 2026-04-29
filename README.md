@@ -2,9 +2,11 @@ This repo contains bundled binaries for llvm 21 built on rocky linux 8. Also con
 
 In split100, the tarball was split into 100MB files. In split50, the tarball was split into 50MB files. In split10, the tarball was split into 10MB files.
 
-To recreate the original tarball out of the parts in a split folder, navigate into the split folder and run this command: `cat part_* > llvm21.1.8.tar.xz`
+To recreate the original tarball out of the parts in a split folder, navigate into the split folder and run this command: 
+`cat part_* > llvm21.1.8.tar.xz`
 
-This will recreate the tarball which can then be unzipped using: `tar -xf llvm21.1.8.tar.xz`
+This will recreate the tarball which can then be unzipped using: 
+`tar -xf llvm21.1.8.tar.xz`
 
 **IMPORTANT NOTE**
 
