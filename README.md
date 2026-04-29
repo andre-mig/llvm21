@@ -1,4 +1,4 @@
-This repo contains llvm21 bundled on rocky linux 8. Also contained in this repo is the bundle split up in three ways.
+This repo contains bundled binaries for llvm 21 built on rocky linux 8. Also contained in this repo is the bundle split up in three ways.
 
 In split100, the tarball was split into 100MB files. In split50, the tarball was split into 50MB files. In split10, the tarball was split into 10MB files.
 
