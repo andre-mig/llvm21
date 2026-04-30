@@ -22,5 +22,6 @@ git checkout
 
 For the sake of comparison and to ensure the recreated tarball matches the original, a hash can be taken using this command:
 `sha256sum llvm21.1.8.tar.xz`
+
 The hash should match this hash taken of the original tarball:
 `febdc50a1fe5fa1c1efd30c9541f11d32a9c635f473cc0ed26294cc77aeb959f`
